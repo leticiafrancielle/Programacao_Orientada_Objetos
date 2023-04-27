@@ -18,7 +18,6 @@ public class Heroi {
         this.nome = nome;
     }
     public int getAtaque(){
-
         return this.ataque;
     }
     public void setAtaque(int ataque){

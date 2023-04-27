@@ -13,8 +13,6 @@ public class Mapa {
         this.nome = nome;
         this.altura = altura;
         this.largura = largura;
-        
-
     }
 
     public String getNome() {
@@ -40,15 +38,19 @@ public class Mapa {
     public void setLargura(int largura) {
         this.largura = largura;
     }
+
     public ArrayList<Inimigo> getInimigos(){
         return this.inimigos;
     }
+
     public void setInimigos(ArrayList<Inimigo> inimigos){
         this.inimigos = inimigos;
     }
+
     public ArrayList<Heroi> getHerois(){
         return this.herois;
     }
+
     public void setHerois(ArrayList<Heroi> herois){
         this.herois = herois;
     }

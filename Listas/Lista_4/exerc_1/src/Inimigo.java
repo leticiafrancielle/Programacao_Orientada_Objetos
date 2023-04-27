@@ -11,6 +11,7 @@ public class Inimigo {
         this.defesa = defesa;
         this.pontos = pontos;
     }
+
     public String getNome(){
         return this.nome;
     }
@@ -24,7 +25,7 @@ public class Inimigo {
         this.ataque = ataque;
     }
     public int getDefesa(){
-            return this.defesa;
+        return this.defesa;
     }
     public void setDefesa(int defesa){
         this.defesa = defesa;

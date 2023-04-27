@@ -5,20 +5,20 @@ public class Musica {
     private int popularidade;
 
     public Musica (){}
-
     public Musica(String nome, String genero, int duracaoEmSegundos, int popularidade){
         this.nome = nome;
         this.genero = genero;
         this.duracaoEmSegundos = duracaoEmSegundos;
         this.popularidade = popularidade;
     }
+
     public String getNome(){
         return this.nome;
     }
     public void setNome(String nome) {
         this.nome = nome;
     }
-    public String getGenero(){
+    public String getGenero() {
         return this.genero;
     }
     public void setGenero(String genero) {
