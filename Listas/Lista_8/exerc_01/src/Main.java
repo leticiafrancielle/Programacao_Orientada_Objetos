@@ -1,6 +1,6 @@
 public class Main {
 
-    public static void main(String[] args) throws NomeRepetididoException {
+    public static void main(String[] args) {
         Grupo grupo = new Grupo();
         try {
             grupo.adicionarHeroi(new Heroi(1, "Lyn", Arma.ESPADA));
