@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_4/Lista_4.iml" filepath="$PROJECT_DIR$/Listas/Lista_4/Lista_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_5/Lista_5.iml" filepath="$PROJECT_DIR$/Listas/Lista_5/Lista_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_7/Lista_7.iml" filepath="$PROJECT_DIR$/Listas/Lista_7/Lista_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_8/Lista_8.iml" filepath="$PROJECT_DIR$/Listas/Lista_8/Lista_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programacao_Orientada_Objetos.iml" filepath="$PROJECT_DIR$/.idea/Programacao_Orientada_Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas/aula_03/aula03_1/aula03_1.iml" filepath="$PROJECT_DIR$/Aulas/aula_03/aula03_1/aula03_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas/aula_03/aula03_2/aula03_2.iml" filepath="$PROJECT_DIR$/Aulas/aula_03/aula03_2/aula03_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aulas/aula_04/aula_04.iml" filepath="$PROJECT_DIR$/Aulas/aula_04/aula_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_6/exerc_1/exerc_1.iml" filepath="$PROJECT_DIR$/Listas/Lista_6/exerc_1/exerc_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_3/exerc_1/exerc_11.iml" filepath="$PROJECT_DIR$/Listas/Lista_3/exerc_1/exerc_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_2/exerc_1/exerc_12.iml" filepath="$PROJECT_DIR$/Listas/Lista_2/exerc_1/exerc_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_6/exerc_2/exerc_2.iml" filepath="$PROJECT_DIR$/Listas/Lista_6/exerc_2/exerc_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_3/exerc_2/exerc_21.iml" filepath="$PROJECT_DIR$/Listas/Lista_3/exerc_2/exerc_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_2/exerc_2/exerc_22.iml" filepath="$PROJECT_DIR$/Listas/Lista_2/exerc_2/exerc_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Lista_3/teste/teste.iml" filepath="$PROJECT_DIR$/Listas/Lista_3/teste/teste.iml" />
+    </modules>
+  </component>
+</project>
